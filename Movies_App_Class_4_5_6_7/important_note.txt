@@ -1,0 +1,9 @@
+npm create vite@latest movies-app --template-react
+
+npm i -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+tailwind cheat sheet
+
+npm install react-router-dom
